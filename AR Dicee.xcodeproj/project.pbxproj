@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				EF819B2C206AA80F005D1A9C /* AppDelegate.swift */,
-				EF819B2E206AA80F005D1A9C /* art.scnassets */,
 				EF819B30206AA80F005D1A9C /* ViewController.swift */,
 				EF819B32206AA80F005D1A9C /* Main.storyboard */,
+				EF819B2E206AA80F005D1A9C /* art.scnassets */,
 				EF819B35206AA80F005D1A9C /* Assets.xcassets */,
 				EF819B37206AA80F005D1A9C /* LaunchScreen.storyboard */,
 				EF819B3A206AA80F005D1A9C /* Info.plist */,
@@ -279,6 +279,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A57N7QN6Y7;
 				INFOPLIST_FILE = "AR Dicee/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.szczegielniak.AR-Dicee";
@@ -293,6 +294,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A57N7QN6Y7;
 				INFOPLIST_FILE = "AR Dicee/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.szczegielniak.AR-Dicee";
